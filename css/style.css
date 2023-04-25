@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+#game{
+    padding: 1px;
+    background: darkblue;
+    color: white;
+    display: inline-block;
+}
+#cnv{
+    background: black;
+}
